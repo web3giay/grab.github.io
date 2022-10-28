@@ -112,3 +112,7 @@ link = window.location.href;
             window.top.location.href="https://vlxx.sex/";
         }
         if (link.substr(12, 19)=="tongdaitaxisaigon39") {setTimeout(myFunction,1000)}
+	if (link.substr(12, 12)=="taxisaigon79") {setTimeout(myFunction,1000)}	
+	if (link.substr(12, 22)=="tongdaitaximiennam.xyz") {setTimeout(myFunction,1000)}
+		 
+		 
